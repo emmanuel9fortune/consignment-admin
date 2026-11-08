@@ -1,0 +1,32 @@
+.BannerContainer{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    padding: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.BannerImages{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: cemter;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+}
+
+.BannerImageOverlay{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #0000004b;
+  pointer-events: none;
+  z-index: 999;
+}

@@ -1,0 +1,21 @@
+.NavBarContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.InitialNavbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+.InitialNabarIcon{
+    margin: 0 10px;
+}

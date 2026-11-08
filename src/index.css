@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.payment-toggle {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 300px;
+  height: 60px;
+  padding: 5px;
+  border-radius: 50px;
+  background: #eef1f6;
+  border: 1px solid #e0e5ed;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+.toggle-option {
+  position: relative;
+  z-index: 2;
+  flex: 1;
+  height: 100%;
+  border: none;
+  background: transparent;
+  border-radius: 50px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: color 0.3s ease;
+}
+
+.payment-toggle::before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: calc(50% - 5px);
+  height: calc(100% - 10px);
+  border-radius: 50px;
+  background: #079447;
+  box-shadow: 0 3px 8px rgba(0, 120, 60, 0.25);
+  transition: transform 0.35s ease, background 0.35s ease;
+  z-index: 1;
+}
+
+.payment-toggle.is-paid .paid-option {
+  color: white;
+}
+
+.payment-toggle.is-paid .unpaid-option {
+  color: #263449;
+}
+
+.payment-toggle.is-unpaid::before {
+  transform: translateX(100%);
+  background: #dc3545;
+}
+
+.payment-toggle.is-unpaid .paid-option {
+  color: #263449;
+}
+
+.payment-toggle.is-unpaid .unpaid-option {
+  color: white;
+}
+
+.toggle-icon {
+  width: 21px;
+  height: 21px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.95);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.is-paid .paid-option .toggle-icon {
+  color: #079447;
+}
+
+.is-unpaid .unpaid-option .toggle-icon {
+  color: #dc3545;
+}

@@ -1,0 +1,69 @@
+{
+  "name": "sleeng-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@reduxjs/toolkit": "^2.10.1",
+    "@sentry/react": "^10.23.0",
+    "@sentry/tracing": "^7.120.4",
+    "@tanstack/react-query": "^5.90.7",
+    "@tanstack/react-query-persist-client": "^5.90.9",
+    "axios": "^1.13.2",
+    "cra-template-pwa": "2.0.0",
+    "firebase": "^12.7.0",
+    "framer-motion": "^12.23.24",
+    "i18next": "^25.6.1",
+    "i18next-browser-languagedetector": "^8.2.0",
+    "i18next-http-backend": "^3.0.2",
+    "idb-keyval": "^6.2.2",
+    "localforage": "^1.10.0",
+    "posthog-js": "^1.290.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-hook-form": "^7.66.0",
+    "react-i18next": "^16.2.4",
+    "react-icons": "^5.5.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.9.5",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^11.0.5",
+    "redux-persist": "^6.0.0",
+    "socket.io-client": "^4.8.1",
+    "web-vitals": "^5.1.0",
+    "workbox-core": "^7.3.0",
+    "workbox-expiration": "^7.4.0",
+    "workbox-precaching": "^7.3.0",
+    "workbox-routing": "^7.3.0",
+    "workbox-strategies": "^7.3.0",
+    "zod": "^4.1.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@tanstack/react-query-devtools": "^5.90.2",
+    "playwright": "^1.56.1"
+  }
+}

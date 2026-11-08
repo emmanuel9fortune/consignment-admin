@@ -1,0 +1,349 @@
+.sign-up{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sign_up_container{
+    display: grid;
+}
+
+/* Color variables (same as before) */
+:root {
+  --grid-line-color: #334454;
+  --grid-bg-color: #14171a00;  
+  --container-bg-color: #0b0d120c;
+}
+
+/* 🌟 Key 1: The Wrapper for both background and foreground content */
+.background-wrapper {
+  position: relative; /* Establishes positioning context for absolute children */
+  overflow: hidden; /* Prevents border lines from spilling out */
+  min-height: 450px; /* Set a height large enough for the grid content */
+  background-color: var(--container-bg-color); 
+}
+
+/* 🌟 Key 2: The Grid is positioned absolutely */
+.structural-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  
+  /* Positioning and size */
+  position: absolute; /* Takes it out of flow */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  /* 🌟 Key 3: Layering */
+  z-index: 1; /* Set Z-index to 1 (or any low positive number) */
+  
+  /* Borders to frame the grid (as before) */
+  border-top: 1px solid var(--grid-line-color);
+  border-left: 1px solid var(--grid-line-color);
+}
+
+.grid-cell {
+  background-color: var(--grid-bg-color);
+  border-right: 1px solid var(--grid-line-color);
+  border-bottom: 1px solid var(--grid-line-color);
+}
+
+/* Styling for the content layer */
+.foreground-content {
+  position: relative; /* Keep it above the grid */
+  z-index: 2; /* Set Z-index to 2 (higher than the grid) */
+  padding: 40px; /* Space inside the content area */
+  color: white;
+}
+
+.sign_up_container_{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.sign_up_box1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #202124;
+    height: 100%;
+    justify-content: center;
+}
+
+.sign_up_form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: #57575762;
+    z-index: 1000;
+}
+
+.sign_up_form_{
+    width: 95%;
+    max-width: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px 0;
+    border-radius: 20px;
+    border: .3px solid #64646475;
+}
+
+.reister_user_name{ 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    width: 90%;
+    border: .3px solid #3333337e;
+    border-radius: 3px;
+    margin: 15px 0;
+}
+
+.reister_input_email{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    width: 90%;
+    border: .3px solid #3333337e;
+    border-radius: 3px;
+    margin: 15px 0;
+}
+
+.reister_input_cpassword{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    width: 90%;
+    border: .3px solid #3333337e;
+    border-radius: 3px;
+    margin: 15px 0;
+}
+
+.reister_input_full_name{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    width: 90%;
+    border: .3px solid #3333337e;
+    border-radius: 3px;
+    margin: 15px 0;
+}
+
+.reister_input_aka{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 45px;
+    width: 90%;
+    border: .3px solid #33333318;
+    border-radius: 3px;
+    margin: 10px 0;
+    background-color: whitesmoke;
+    border-radius: 7px;
+}
+
+.reister_input_password{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    width: 90%;
+    border: .3px solid #3333337e;
+    border-radius: 3px;
+    margin: 15px 0;
+}
+
+.reister_user_name label{
+    position: absolute;
+    top: 40%;
+    left: 10px;
+    transition: .5s;
+    color: grey;
+    user-select: none;
+}
+
+.reister_input_aka label{
+    position: absolute;
+    top: 20%;
+    left: 10px;
+    transition: .5s;
+    color: grey;
+    user-select: none;
+    font-size: 15px;
+    
+}
+
+.reister_input_full_name label{
+    position: absolute;
+    top: 40%;
+    left: 10px;
+    transition: .5s;
+    color: grey;
+    user-select: none;
+}
+
+.reister_input_email label{
+    position: absolute;
+    top: 40%;
+    left: 10px;
+    transition: .5s;
+    color: grey;
+    user-select: none;
+}
+
+.reister_input_password label{
+    position: absolute;
+    top: 40%;
+    left: 10px;
+    transition: .5s;
+    color: grey;
+    user-select: none;
+}
+
+.reister_input_cpassword label{
+    position: absolute;
+    top: 40%;
+    left: 10px;
+    transition: .5s;
+    color: grey;
+    user-select: none;
+}
+
+.reister_input_name label{
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 0 10px;
+    color: #333;
+    user-select: none;
+    z-index: 2000;
+    font-size: 13px;
+}
+
+.reister_input_aka input{
+    height: 100%;
+    width: 100% ;
+    border: none;
+    outline-width: 0;
+    font-size: 16px;
+    zoom: 1;
+    padding: 10px;
+    z-index: 1000;
+    background-color: transparent;
+}
+
+.register_btn{
+    width: 90%;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+    margin-top: 60px;
+    transition: transform 0.1s ease-in-out;
+    user-select: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+  
+.register_btn:active {
+    transform: scale(0.9); 
+}
+
+.sign_up_form_hd{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.sign_up_form_hd h3{
+    font-size: 15px;
+}
+
+.sign_up_form_hd_login_link{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 600;
+    color: gold;
+}
+
+.sign_up_box1 h1{
+    color: #fff;
+    font-size: 70px;
+    text-align: center;
+    width: 90%;
+}
+
+.sign_up_box1 p{
+    color: #606263;
+    font-size: 23px;
+    text-align: center;
+    width: 90%;
+    margin: 20px 0;
+}
+
+.sign_up_form>h1{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 850px) {
+    .sign_up_box1{
+        display: none;
+    }
+
+    .sign_up_form{
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sign_up_form>h1{
+        width: 90%;
+        text-align: center;
+        font-size: 25px;
+        margin: 10px 0;
+        display: block;
+    }
+
+    .sign_up_form>h1 span{
+        color: limegreen;
+    }
+
+    .structural-grid{
+        display: none;
+    }
+}

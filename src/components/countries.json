@@ -1,0 +1,774 @@
+[
+    { "type": "capital", "country": "Afghanistan", "name": "Kabul", "coordinates": [34.5553, 69.2075] },
+{ "type": "airport", "country": "Afghanistan", "name": "Hamid Karzai International Airport", "iata": "KBL", "coordinates": [34.5659, 69.2123] },
+{ "type": "port", "country": "Afghanistan", "name": "Hairatan Port", "coordinates": [37.1783, 67.4361] },
+
+{ "type": "capital", "country": "Albania", "name": "Tirana", "coordinates": [41.3275, 19.8187] },
+{ "type": "airport", "country": "Albania", "name": "Tirana International Airport", "iata": "TIA", "coordinates": [41.4147, 19.7206] },
+{ "type": "port", "country": "Albania", "name": "Port of Durrës", "coordinates": [41.3139, 19.4450] },
+
+{ "type": "capital", "country": "Algeria", "name": "Algiers", "coordinates": [36.7538, 3.0588] },
+{ "type": "airport", "country": "Algeria", "name": "Houari Boumediene Airport", "iata": "ALG", "coordinates": [36.6969, 3.2146] },
+{ "type": "port", "country": "Algeria", "name": "Port of Algiers", "coordinates": [36.7763, 3.0580] },
+
+{ "type": "capital", "country": "Andorra", "name": "Andorra la Vella", "coordinates": [42.5063, 1.5218] },
+{ "type": "airport", "country": "Andorra", "name": "La Seu d'Urgell Airport (nearest)", "iata": "LEU", "coordinates": [42.3386, 1.4092] },
+{ "type": "port", "country": "Andorra", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Angola", "name": "Luanda", "coordinates": [-8.8390, 13.2894] },
+{ "type": "airport", "country": "Angola", "name": "Quatro de Fevereiro Airport", "iata": "LAD", "coordinates": [-8.8584, 13.2312] },
+{ "type": "port", "country": "Angola", "name": "Port of Luanda", "coordinates": [-8.8089, 13.2325] },
+
+{ "type": "capital", "country": "Argentina", "name": "Buenos Aires", "coordinates": [-34.6037, -58.3816] },
+{ "type": "airport", "country": "Argentina", "name": "Ezeiza International Airport", "iata": "EZE", "coordinates": [-34.8222, -58.5358] },
+{ "type": "port", "country": "Argentina", "name": "Port of Buenos Aires", "coordinates": [-34.5761, -58.3703] },
+
+{ "type": "capital", "country": "Armenia", "name": "Yerevan", "coordinates": [40.1792, 44.4991] },
+{ "type": "airport", "country": "Armenia", "name": "Zvartnots International Airport", "iata": "EVN", "coordinates": [40.1473, 44.3959] },
+{ "type": "port", "country": "Armenia", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Australia", "name": "Canberra", "coordinates": [-35.2809, 149.1300] },
+{ "type": "airport", "country": "Australia", "name": "Sydney Kingsford Smith Airport", "iata": "SYD", "coordinates": [-33.9399, 151.1753] },
+{ "type": "port", "country": "Australia", "name": "Port of Sydney", "coordinates": [-33.8688, 151.2093] },
+
+{ "type": "capital", "country": "Austria", "name": "Vienna", "coordinates": [48.2082, 16.3738] },
+{ "type": "airport", "country": "Austria", "name": "Vienna International Airport", "iata": "VIE", "coordinates": [48.1103, 16.5697] },
+{ "type": "port", "country": "Austria", "name": "Port of Vienna (Danube)", "coordinates": [48.3000, 16.4167] },
+
+{ "type": "capital", "country": "Azerbaijan", "name": "Baku", "coordinates": [40.4093, 49.8671] },
+{ "type": "airport", "country": "Azerbaijan", "name": "Heydar Aliyev International Airport", "iata": "GYD", "coordinates": [40.4675, 50.0467] },
+{ "type": "port", "country": "Azerbaijan", "name": "Port of Baku", "coordinates": [40.3704, 49.8469] },
+
+{ "type": "capital", "country": "Bahamas", "name": "Nassau", "coordinates": [25.0443, -77.3504] },
+{ "type": "airport", "country": "Bahamas", "name": "Lynden Pindling International Airport", "iata": "NAS", "coordinates": [25.0390, -77.4662] },
+{ "type": "port", "country": "Bahamas", "name": "Port of Nassau", "coordinates": [25.0780, -77.3431] },
+
+{ "type": "capital", "country": "Bahrain", "name": "Manama", "coordinates": [26.2285, 50.5860] },
+{ "type": "airport", "country": "Bahrain", "name": "Bahrain International Airport", "iata": "BAH", "coordinates": [26.2708, 50.6336] },
+{ "type": "port", "country": "Bahrain", "name": "Khalifa Bin Salman Port", "coordinates": [26.2450, 50.6117] },
+
+{ "type": "capital", "country": "Bangladesh", "name": "Dhaka", "coordinates": [23.8103, 90.4125] },
+{ "type": "airport", "country": "Bangladesh", "name": "Shahjalal International Airport", "iata": "DAC", "coordinates": [23.8433, 90.3978] },
+{ "type": "port", "country": "Bangladesh", "name": "Port of Chittagong", "coordinates": [22.3350, 91.8325] },
+
+{ "type": "capital", "country": "Barbados", "name": "Bridgetown", "coordinates": [13.1132, -59.5988] },
+{ "type": "airport", "country": "Barbados", "name": "Grantley Adams International Airport", "iata": "BGI", "coordinates": [13.0746, -59.4925] },
+{ "type": "port", "country": "Barbados", "name": "Port of Bridgetown", "coordinates": [13.1042, -59.6167] },
+
+{ "type": "capital", "country": "Belarus", "name": "Minsk", "coordinates": [53.9006, 27.5590] },
+{ "type": "airport", "country": "Belarus", "name": "Minsk National Airport", "iata": "MSQ", "coordinates": [53.8883, 28.0307] },
+{ "type": "port", "country": "Belarus", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Belgium", "name": "Brussels", "coordinates": [50.8503, 4.3517] },
+{ "type": "airport", "country": "Belgium", "name": "Brussels Airport", "iata": "BRU", "coordinates": [50.9010, 4.4844] },
+{ "type": "port", "country": "Belgium", "name": "Port of Antwerp", "coordinates": [51.2637, 4.4003] },
+
+{ "type": "capital", "country": "Belize", "name": "Belmopan", "coordinates": [17.2510, -88.7590] },
+{ "type": "airport", "country": "Belize", "name": "Philip S.W. Goldson International Airport", "iata": "BZE", "coordinates": [17.5392, -88.3082] },
+{ "type": "port", "country": "Belize", "name": "Port of Belize City", "coordinates": [17.4890, -88.1825] },
+
+{ "type": "capital", "country": "Benin", "name": "Porto-Novo", "coordinates": [6.4969, 2.6289] },
+{ "type": "airport", "country": "Benin", "name": "Cotonou Cadjehoun Airport", "iata": "COO", "coordinates": [6.3500, 2.3844] },
+{ "type": "port", "country": "Benin", "name": "Port of Cotonou", "coordinates": [6.3480, 2.4360] },
+
+{ "type": "capital", "country": "Bhutan", "name": "Thimphu", "coordinates": [27.4712, 89.6339] },
+{ "type": "airport", "country": "Bhutan", "name": "Paro International Airport", "iata": "PBH", "coordinates": [27.4032, 89.4246] },
+{ "type": "port", "country": "Bhutan", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Bolivia", "name": "Sucre", "coordinates": [-19.0196, -65.2619] },
+{ "type": "airport", "country": "Bolivia", "name": "El Alto International Airport", "iata": "LPB", "coordinates": [-16.5133, -68.1923] },
+{ "type": "port", "country": "Bolivia", "name": "Puerto Aguirre", "coordinates": [-17.7806, -57.7700] },
+
+{ "type": "capital", "country": "Bosnia and Herzegovina", "name": "Sarajevo", "coordinates": [43.8563, 18.4131] },
+{ "type": "airport", "country": "Bosnia and Herzegovina", "name": "Sarajevo International Airport", "iata": "SJJ", "coordinates": [43.8246, 18.3315] },
+{ "type": "port", "country": "Bosnia and Herzegovina", "name": "Port of Neum", "coordinates": [42.9236, 17.6150] },
+
+{ "type": "capital", "country": "Botswana", "name": "Gaborone", "coordinates": [-24.6282, 25.9231] },
+{ "type": "airport", "country": "Botswana", "name": "Sir Seretse Khama International Airport", "iata": "GBE", "coordinates": [-24.5552, 25.9182] },
+{ "type": "port", "country": "Botswana", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Brazil", "name": "Brasília", "coordinates": [-15.8267, -47.9218] },
+{ "type": "airport", "country": "Brazil", "name": "São Paulo–Guarulhos Airport", "iata": "GRU", "coordinates": [-23.4356, -46.4731] },
+{ "type": "port", "country": "Brazil", "name": "Port of Santos", "coordinates": [-23.9660, -46.3280] },
+
+{ "type": "capital", "country": "Brunei", "name": "Bandar Seri Begawan", "coordinates": [4.9031, 114.9398] },
+{ "type": "airport", "country": "Brunei", "name": "Brunei International Airport", "iata": "BWN", "coordinates": [4.9442, 114.9282] },
+{ "type": "port", "country": "Brunei", "name": "Muara Port", "coordinates": [5.0340, 115.0450] },
+
+{ "type": "capital", "country": "Bulgaria", "name": "Sofia", "coordinates": [42.6977, 23.3219] },
+{ "type": "airport", "country": "Bulgaria", "name": "Sofia Airport", "iata": "SOF", "coordinates": [42.6952, 23.4083] },
+{ "type": "port", "country": "Bulgaria", "name": "Port of Varna", "coordinates": [43.2050, 27.9150] },
+
+{ "type": "capital", "country": "Burkina Faso", "name": "Ouagadougou", "coordinates": [12.3714, -1.5197] },
+{ "type": "airport", "country": "Burkina Faso", "name": "Ouagadougou Airport", "iata": "OUA", "coordinates": [12.3532, -1.5124] },
+{ "type": "port", "country": "Burkina Faso", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Burundi", "name": "Gitega", "coordinates": [-3.4264, 29.9306] },
+{ "type": "airport", "country": "Burundi", "name": "Bujumbura International Airport", "iata": "BJM", "coordinates": [-3.3240, 29.3185] },
+{ "type": "port", "country": "Burundi", "name": "Port of Bujumbura", "coordinates": [-3.3822, 29.3670] },
+
+{ "type": "capital", "country": "Cambodia", "name": "Phnom Penh", "coordinates": [11.5564, 104.9282] },
+{ "type": "airport", "country": "Cambodia", "name": "Phnom Penh International Airport", "iata": "PNH", "coordinates": [11.5466, 104.8440] },
+{ "type": "port", "country": "Cambodia", "name": "Port of Sihanoukville", "coordinates": [10.6270, 103.5020] },
+
+{ "type": "capital", "country": "Cameroon", "name": "Yaoundé", "coordinates": [3.8480, 11.5021] },
+{ "type": "airport", "country": "Cameroon", "name": "Douala International Airport", "iata": "DLA", "coordinates": [4.0060, 9.7195] },
+{ "type": "port", "country": "Cameroon", "name": "Port of Douala", "coordinates": [4.0600, 9.7060] },
+
+{ "type": "capital", "country": "Canada", "name": "Ottawa", "coordinates": [45.4215, -75.6972] },
+{ "type": "airport", "country": "Canada", "name": "Toronto Pearson International Airport", "iata": "YYZ", "coordinates": [43.6777, -79.6248] },
+{ "type": "port", "country": "Canada", "name": "Port of Vancouver", "coordinates": [49.3066, -123.1207] },
+
+{ "type": "capital", "country": "Cape Verde", "name": "Praia", "coordinates": [14.9331, -23.5133] },
+{ "type": "airport", "country": "Cape Verde", "name": "Nelson Mandela International Airport", "iata": "RAI", "coordinates": [14.9245, -23.4935] },
+{ "type": "port", "country": "Cape Verde", "name": "Port of Praia", "coordinates": [14.9190, -23.5090] },
+
+{ "type": "capital", "country": "Central African Republic", "name": "Bangui", "coordinates": [4.3947, 18.5582] },
+{ "type": "airport", "country": "Central African Republic", "name": "Bangui M'Poko International Airport", "iata": "BGF", "coordinates": [4.3985, 18.5188] },
+{ "type": "port", "country": "Central African Republic", "name": "Port of Bangui (Ubangi River)", "coordinates": [4.3950, 18.5580] },
+
+{ "type": "capital", "country": "Chad", "name": "N'Djamena", "coordinates": [12.1348, 15.0557] },
+{ "type": "airport", "country": "Chad", "name": "N'Djamena International Airport", "iata": "NDJ", "coordinates": [12.1337, 15.0340] },
+{ "type": "port", "country": "Chad", "name": "Port of Bol (Lake Chad)", "coordinates": [13.4667, 14.7167] },
+
+{ "type": "capital", "country": "Chile", "name": "Santiago", "coordinates": [-33.4489, -70.6693] },
+{ "type": "airport", "country": "Chile", "name": "Santiago International Airport", "iata": "SCL", "coordinates": [-33.3930, -70.7858] },
+{ "type": "port", "country": "Chile", "name": "Port of Valparaíso", "coordinates": [-33.0469, -71.6127] },
+
+{ "type": "capital", "country": "China", "name": "Beijing", "coordinates": [39.9042, 116.4074] },
+{ "type": "airport", "country": "China", "name": "Beijing Capital International Airport", "iata": "PEK", "coordinates": [40.0801, 116.5846] },
+{ "type": "port", "country": "China", "name": "Port of Shanghai", "coordinates": [31.2304, 121.4737] },
+
+{ "type": "capital", "country": "Colombia", "name": "Bogotá", "coordinates": [4.7110, -74.0721] },
+{ "type": "airport", "country": "Colombia", "name": "El Dorado International Airport", "iata": "BOG", "coordinates": [4.7016, -74.1469] },
+{ "type": "port", "country": "Colombia", "name": "Port of Cartagena", "coordinates": [10.4000, -75.5167] },
+
+{ "type": "capital", "country": "Comoros", "name": "Moroni", "coordinates": [-11.7172, 43.2473] },
+{ "type": "airport", "country": "Comoros", "name": "Prince Said Ibrahim International Airport", "iata": "HAH", "coordinates": [-11.5337, 43.2719] },
+{ "type": "port", "country": "Comoros", "name": "Port of Moroni", "coordinates": [-11.7178, 43.2435] },
+
+{ "type": "capital", "country": "Congo (Republic of the Congo)", "name": "Brazzaville", "coordinates": [-4.2634, 15.2429] },
+{ "type": "airport", "country": "Congo (Republic of the Congo)", "name": "Maya-Maya Airport", "iata": "BZV", "coordinates": [-4.2517, 15.2530] },
+{ "type": "port", "country": "Congo (Republic of the Congo)", "name": "Port of Pointe-Noire", "coordinates": [-4.7885, 11.8700] },
+
+{ "type": "capital", "country": "Congo (Democratic Republic of the Congo)", "name": "Kinshasa", "coordinates": [-4.4419, 15.2663] },
+{ "type": "airport", "country": "Congo (DRC)", "name": "N'Djili International Airport", "iata": "FIH", "coordinates": [-4.3857, 15.4446] },
+{ "type": "port", "country": "Congo (DRC)", "name": "Port of Matadi", "coordinates": [-5.8150, 13.4500] },
+
+{ "type": "capital", "country": "Costa Rica", "name": "San José", "coordinates": [9.9281, -84.0907] },
+{ "type": "airport", "country": "Costa Rica", "name": "Juan Santamaría International Airport", "iata": "SJO", "coordinates": [9.9982, -84.2041] },
+{ "type": "port", "country": "Costa Rica", "name": "Port of Limón", "coordinates": [10.0000, -83.0333] },
+
+{ "type": "capital", "country": "Croatia", "name": "Zagreb", "coordinates": [45.8150, 15.9819] },
+{ "type": "airport", "country": "Croatia", "name": "Zagreb Airport", "iata": "ZAG", "coordinates": [45.7429, 16.0688] },
+{ "type": "port", "country": "Croatia", "name": "Port of Rijeka", "coordinates": [45.3271, 14.4422] },
+
+{ "type": "capital", "country": "Cuba", "name": "Havana", "coordinates": [23.1136, -82.3666] },
+{ "type": "airport", "country": "Cuba", "name": "José Martí International Airport", "iata": "HAV", "coordinates": [22.9892, -82.4091] },
+{ "type": "port", "country": "Cuba", "name": "Port of Havana", "coordinates": [23.1550, -82.3300] },
+
+{ "type": "capital", "country": "Cyprus", "name": "Nicosia", "coordinates": [35.1856, 33.3823] },
+{ "type": "airport", "country": "Cyprus", "name": "Larnaca International Airport", "iata": "LCA", "coordinates": [34.8750, 33.6249] },
+{ "type": "port", "country": "Cyprus", "name": "Port of Limassol", "coordinates": [34.6700, 33.0330] },
+
+{ "type": "capital", "country": "Czech Republic", "name": "Prague", "coordinates": [50.0755, 14.4378] },
+{ "type": "airport", "country": "Czech Republic", "name": "Václav Havel Airport", "iata": "PRG", "coordinates": [50.1062, 14.2666] },
+{ "type": "port", "country": "Czech Republic", "name": "Port of Děčín (Elbe River)", "coordinates": [50.7724, 14.1960] },
+
+{ "type": "capital", "country": "Denmark", "name": "Copenhagen", "coordinates": [55.6761, 12.5683] },
+{ "type": "airport", "country": "Denmark", "name": "Copenhagen Airport", "iata": "CPH", "coordinates": [55.6180, 12.6560] },
+{ "type": "port", "country": "Denmark", "name": "Port of Copenhagen", "coordinates": [55.6929, 12.5993] },
+
+{ "type": "capital", "country": "Djibouti", "name": "Djibouti City", "coordinates": [11.8251, 42.5903] },
+{ "type": "airport", "country": "Djibouti", "name": "Djibouti–Ambouli International Airport", "iata": "JIB", "coordinates": [11.5473, 43.1595] },
+{ "type": "port", "country": "Djibouti", "name": "Port of Djibouti", "coordinates": [11.6050, 43.1400] },
+
+{ "type": "capital", "country": "Dominica", "name": "Roseau", "coordinates": [15.3092, -61.3790] },
+{ "type": "airport", "country": "Dominica", "name": "Douglas–Charles Airport", "iata": "DOM", "coordinates": [15.5470, -61.3018] },
+{ "type": "port", "country": "Dominica", "name": "Port of Roseau", "coordinates": [15.2980, -61.3920] },
+
+{ "type": "capital", "country": "Dominican Republic", "name": "Santo Domingo", "coordinates": [18.4861, -69.9312] },
+{ "type": "airport", "country": "Dominican Republic", "name": "Las Américas International Airport", "iata": "SDQ", "coordinates": [18.4297, -69.6689] },
+{ "type": "port", "country": "Dominican Republic", "name": "Port of Santo Domingo", "coordinates": [18.4750, -69.8800] },
+
+{ "type": "capital", "country": "Ecuador", "name": "Quito", "coordinates": [-0.1807, -78.4678] },
+{ "type": "airport", "country": "Ecuador", "name": "Mariscal Sucre International Airport", "iata": "UIO", "coordinates": [-0.1292, -78.3575] },
+{ "type": "port", "country": "Ecuador", "name": "Port of Guayaquil", "coordinates": [-2.2667, -79.9000] },
+
+{ "type": "capital", "country": "Egypt", "name": "Cairo", "coordinates": [30.0444, 31.2357] },
+{ "type": "airport", "country": "Egypt", "name": "Cairo International Airport", "iata": "CAI", "coordinates": [30.1200, 31.4065] },
+{ "type": "port", "country": "Egypt", "name": "Port of Alexandria", "coordinates": [31.2001, 29.9187] },
+
+{ "type": "capital", "country": "El Salvador", "name": "San Salvador", "coordinates": [13.6929, -89.2182] },
+{ "type": "airport", "country": "El Salvador", "name": "El Salvador International Airport", "iata": "SAL", "coordinates": [13.4409, -89.0557] },
+{ "type": "port", "country": "El Salvador", "name": "Port of Acajutla", "coordinates": [13.5920, -89.8300] },
+
+{ "type": "capital", "country": "Equatorial Guinea", "name": "Malabo", "coordinates": [3.7500, 8.7833] },
+{ "type": "airport", "country": "Equatorial Guinea", "name": "Malabo International Airport", "iata": "SSG", "coordinates": [3.7553, 8.7087] },
+{ "type": "port", "country": "Equatorial Guinea", "name": "Port of Malabo", "coordinates": [3.7540, 8.7820] },
+
+{ "type": "capital", "country": "Eritrea", "name": "Asmara", "coordinates": [15.3229, 38.9251] },
+{ "type": "airport", "country": "Eritrea", "name": "Asmara International Airport", "iata": "ASM", "coordinates": [15.2919, 38.9107] },
+{ "type": "port", "country": "Eritrea", "name": "Port of Massawa", "coordinates": [15.6081, 39.4439] },
+
+{ "type": "capital", "country": "Estonia", "name": "Tallinn", "coordinates": [59.4370, 24.7536] },
+{ "type": "airport", "country": "Estonia", "name": "Tallinn Airport", "iata": "TLL", "coordinates": [59.4133, 24.8328] },
+{ "type": "port", "country": "Estonia", "name": "Port of Tallinn", "coordinates": [59.4455, 24.7576] },
+
+{ "type": "capital", "country": "Eswatini", "name": "Mbabane", "coordinates": [-26.3054, 31.1367] },
+{ "type": "airport", "country": "Eswatini", "name": "King Mswati III International Airport", "iata": "SHO", "coordinates": [-26.3586, 31.7164] },
+{ "type": "port", "country": "Eswatini", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Ethiopia", "name": "Addis Ababa", "coordinates": [8.9806, 38.7578] },
+{ "type": "airport", "country": "Ethiopia", "name": "Addis Ababa Bole International Airport", "iata": "ADD", "coordinates": [8.9779, 38.7993] },
+{ "type": "port", "country": "Ethiopia", "name": "Port of Djibouti (primary)", "coordinates": [11.6050, 43.1400] },
+
+{ "type": "capital", "country": "Fiji", "name": "Suva", "coordinates": [-18.1248, 178.4501] },
+{ "type": "airport", "country": "Fiji", "name": "Nadi International Airport", "iata": "NAN", "coordinates": [-17.7554, 177.4434] },
+{ "type": "port", "country": "Fiji", "name": "Port of Suva", "coordinates": [-18.1290, 178.4230] },
+
+{ "type": "capital", "country": "Finland", "name": "Helsinki", "coordinates": [60.1699, 24.9384] },
+{ "type": "airport", "country": "Finland", "name": "Helsinki Airport", "iata": "HEL", "coordinates": [60.3172, 24.9633] },
+{ "type": "port", "country": "Finland", "name": "Port of Helsinki", "coordinates": [60.1690, 24.9550] },
+
+{ "type": "capital", "country": "France", "name": "Paris", "coordinates": [48.8566, 2.3522] },
+{ "type": "airport", "country": "France", "name": "Charles de Gaulle Airport", "iata": "CDG", "coordinates": [49.0097, 2.5479] },
+{ "type": "port", "country": "France", "name": "Port of Marseille", "coordinates": [43.2965, 5.3698] },
+
+{ "type": "capital", "country": "Gabon", "name": "Libreville", "coordinates": [0.4162, 9.4673] },
+{ "type": "airport", "country": "Gabon", "name": "Libreville International Airport", "iata": "LBV", "coordinates": [0.4586, 9.4123] },
+{ "type": "port", "country": "Gabon", "name": "Port of Libreville", "coordinates": [0.3900, 9.4500] },
+
+{ "type": "capital", "country": "Gambia", "name": "Banjul", "coordinates": [13.4549, -16.5790] },
+{ "type": "airport", "country": "Gambia", "name": "Banjul International Airport", "iata": "BJL", "coordinates": [13.3380, -16.6522] },
+{ "type": "port", "country": "Gambia", "name": "Port of Banjul", "coordinates": [13.4550, -16.5790] },
+
+{ "type": "capital", "country": "Georgia", "name": "Tbilisi", "coordinates": [41.7151, 44.8271] },
+{ "type": "airport", "country": "Georgia", "name": "Tbilisi International Airport", "iata": "TBS", "coordinates": [41.6692, 44.9547] },
+{ "type": "port", "country": "Georgia", "name": "Port of Batumi", "coordinates": [41.6500, 41.6500] },
+
+{ "type": "capital", "country": "Germany", "name": "Berlin", "coordinates": [52.5200, 13.4050] },
+{ "type": "airport", "country": "Germany", "name": "Frankfurt Airport", "iata": "FRA", "coordinates": [50.0379, 8.5622] },
+{ "type": "port", "country": "Germany", "name": "Port of Hamburg", "coordinates": [53.5461, 9.9661] },
+
+{ "type": "capital", "country": "Ghana", "name": "Accra", "coordinates": [5.6037, -0.1870] },
+{ "type": "airport", "country": "Ghana", "name": "Kotoka International Airport", "iata": "ACC", "coordinates": [5.6052, -0.1668] },
+{ "type": "port", "country": "Ghana", "name": "Port of Tema", "coordinates": [5.6667, 0.0167] },
+
+{ "type": "capital", "country": "Greece", "name": "Athens", "coordinates": [37.9838, 23.7275] },
+{ "type": "airport", "country": "Greece", "name": "Athens International Airport", "iata": "ATH", "coordinates": [37.9364, 23.9445] },
+{ "type": "port", "country": "Greece", "name": "Port of Piraeus", "coordinates": [37.9429, 23.6460] },
+
+{ "type": "capital", "country": "Grenada", "name": "St. George's", "coordinates": [12.0561, -61.7486] },
+{ "type": "airport", "country": "Grenada", "name": "Maurice Bishop International Airport", "iata": "GND", "coordinates": [12.0042, -61.7862] },
+{ "type": "port", "country": "Grenada", "name": "Port of St. George's", "coordinates": [12.0535, -61.7510] },
+
+{ "type": "capital", "country": "Guatemala", "name": "Guatemala City", "coordinates": [14.6349, -90.5069] },
+{ "type": "airport", "country": "Guatemala", "name": "La Aurora International Airport", "iata": "GUA", "coordinates": [14.5833, -90.5275] },
+{ "type": "port", "country": "Guatemala", "name": "Puerto Quetzal", "coordinates": [13.9240, -90.7850] },
+
+{ "type": "capital", "country": "Guinea", "name": "Conakry", "coordinates": [9.6412, -13.5784] },
+{ "type": "airport", "country": "Guinea", "name": "Conakry International Airport", "iata": "CKY", "coordinates": [9.5769, -13.6120] },
+{ "type": "port", "country": "Guinea", "name": "Port of Conakry", "coordinates": [9.5070, -13.7100] },
+
+{ "type": "capital", "country": "Guinea-Bissau", "name": "Bissau", "coordinates": [11.8636, -15.5977] },
+{ "type": "airport", "country": "Guinea-Bissau", "name": "Osvaldo Vieira International Airport", "iata": "OXB", "coordinates": [11.8948, -15.6537] },
+{ "type": "port", "country": "Guinea-Bissau", "name": "Port of Bissau", "coordinates": [11.8560, -15.5820] },
+
+{ "type": "capital", "country": "Guyana", "name": "Georgetown", "coordinates": [6.8013, -58.1551] },
+{ "type": "airport", "country": "Guyana", "name": "Cheddi Jagan International Airport", "iata": "GEO", "coordinates": [6.4988, -58.2541] },
+{ "type": "port", "country": "Guyana", "name": "Port of Georgetown", "coordinates": [6.8060, -58.1670] },
+
+{ "type": "capital", "country": "Haiti", "name": "Port-au-Prince", "coordinates": [18.5944, -72.3074] },
+{ "type": "airport", "country": "Haiti", "name": "Toussaint Louverture International Airport", "iata": "PAP", "coordinates": [18.5800, -72.2925] },
+{ "type": "port", "country": "Haiti", "name": "Port International de Port-au-Prince", "coordinates": [18.5467, -72.3500] },
+
+{ "type": "capital", "country": "Honduras", "name": "Tegucigalpa", "coordinates": [14.0723, -87.1921] },
+{ "type": "airport", "country": "Honduras", "name": "Ramón Villeda Morales Airport", "iata": "SAP", "coordinates": [15.4526, -87.9236] },
+{ "type": "port", "country": "Honduras", "name": "Port of Puerto Cortés", "coordinates": [15.8533, -87.9423] },
+
+{ "type": "capital", "country": "Hungary", "name": "Budapest", "coordinates": [47.4979, 19.0402] },
+{ "type": "airport", "country": "Hungary", "name": "Budapest Ferenc Liszt International Airport", "iata": "BUD", "coordinates": [47.4333, 19.2667] },
+{ "type": "port", "country": "Hungary", "name": "Port of Budapest (Danube River)", "coordinates": [47.5036, 19.0450] },
+
+{ "type": "capital", "country": "Iceland", "name": "Reykjavík", "coordinates": [64.1466, -21.9426] },
+{ "type": "airport", "country": "Iceland", "name": "Keflavík International Airport", "iata": "KEF", "coordinates": [63.9850, -22.6056] },
+{ "type": "port", "country": "Iceland", "name": "Port of Reykjavík", "coordinates": [64.1500, -21.9500] },
+
+{ "type": "capital", "country": "India", "name": "New Delhi", "coordinates": [28.6139, 77.2090] },
+{ "type": "airport", "country": "India", "name": "Indira Gandhi International Airport", "iata": "DEL", "coordinates": [28.5562, 77.1000] },
+{ "type": "port", "country": "India", "name": "Port of Mumbai", "coordinates": [18.9490, 72.8420] },
+
+{ "type": "capital", "country": "Indonesia", "name": "Jakarta", "coordinates": [-6.2088, 106.8456] },
+{ "type": "airport", "country": "Indonesia", "name": "Soekarno–Hatta International Airport", "iata": "CGK", "coordinates": [-6.1256, 106.6559] },
+{ "type": "port", "country": "Indonesia", "name": "Port of Tanjung Priok", "coordinates": [-6.1100, 106.8900] },
+
+{ "type": "capital", "country": "Iran", "name": "Tehran", "coordinates": [35.6892, 51.3890] },
+{ "type": "airport", "country": "Iran", "name": "Tehran Imam Khomeini International Airport", "iata": "IKA", "coordinates": [35.4161, 51.1522] },
+{ "type": "port", "country": "Iran", "name": "Port of Bandar Abbas", "coordinates": [27.1860, 56.2770] },
+
+{ "type": "capital", "country": "Iraq", "name": "Baghdad", "coordinates": [33.3128, 44.3615] },
+{ "type": "airport", "country": "Iraq", "name": "Baghdad International Airport", "iata": "BGW", "coordinates": [33.2621, 44.2344] },
+{ "type": "port", "country": "Iraq", "name": "Port of Umm Qasr", "coordinates": [30.0525, 47.6900] },
+
+{ "type": "capital", "country": "Ireland", "name": "Dublin", "coordinates": [53.3331, -6.2489] },
+{ "type": "airport", "country": "Ireland", "name": "Dublin Airport", "iata": "DUB", "coordinates": [53.4213, -6.2701] },
+{ "type": "port", "country": "Ireland", "name": "Port of Dublin", "coordinates": [53.3469, -6.2436] },
+
+{ "type": "capital", "country": "Israel", "name": "Jerusalem", "coordinates": [31.7683, 35.2137] },
+{ "type": "airport", "country": "Israel", "name": "Ben Gurion International Airport", "iata": "TLV", "coordinates": [32.0056, 34.8858] },
+{ "type": "port", "country": "Israel", "name": "Port of Haifa", "coordinates": [32.8183, 34.9881] },
+
+{ "type": "capital", "country": "Italy", "name": "Rome", "coordinates": [41.9028, 12.4964] },
+{ "type": "airport", "country": "Italy", "name": "Leonardo da Vinci–Fiumicino Airport", "iata": "FCO", "coordinates": [41.8003, 12.2389] },
+{ "type": "port", "country": "Italy", "name": "Port of Genoa", "coordinates": [44.4056, 8.9463] },
+
+{ "type": "capital", "country": "Jamaica", "name": "Kingston", "coordinates": [17.9712, -76.7936] },
+{ "type": "airport", "country": "Jamaica", "name": "Norman Manley International Airport", "iata": "KIN", "coordinates": [17.9357, -76.7875] },
+{ "type": "port", "country": "Jamaica", "name": "Port of Kingston", "coordinates": [17.9650, -76.7920] },
+
+{ "type": "capital", "country": "Japan", "name": "Tokyo", "coordinates": [35.6762, 139.6503] },
+{ "type": "airport", "country": "Japan", "name": "Tokyo Haneda Airport", "iata": "HND", "coordinates": [35.5494, 139.7798] },
+{ "type": "port", "country": "Japan", "name": "Port of Tokyo", "coordinates": [35.6269, 139.7725] },
+
+{ "type": "capital", "country": "Jordan", "name": "Amman", "coordinates": [31.9454, 35.9284] },
+{ "type": "airport", "country": "Jordan", "name": "Queen Alia International Airport", "iata": "AMM", "coordinates": [31.7226, 35.9933] },
+{ "type": "port", "country": "Jordan", "name": "Port of Aqaba", "coordinates": [29.5269, 35.0075] },
+
+{ "type": "capital", "country": "Kazakhstan", "name": "Nur-Sultan", "coordinates": [51.1694, 71.4491] },
+{ "type": "airport", "country": "Kazakhstan", "name": "Nursultan Nazarbayev International Airport", "iata": "NQZ", "coordinates": [51.0222, 71.4667] },
+{ "type": "port", "country": "Kazakhstan", "name": "Port of Aktau", "coordinates": [43.6500, 51.1667] },
+
+{ "type": "capital", "country": "Kenya", "name": "Nairobi", "coordinates": [-1.2921, 36.8219] },
+{ "type": "airport", "country": "Kenya", "name": "Jomo Kenyatta International Airport", "iata": "NBO", "coordinates": [-1.3192, 36.9275] },
+{ "type": "port", "country": "Kenya", "name": "Port of Mombasa", "coordinates": [-4.0435, 39.6633] },
+
+{ "type": "capital", "country": "Kiribati", "name": "South Tarawa", "coordinates": [1.4518, 172.9716] },
+{ "type": "airport", "country": "Kiribati", "name": "Bonriki International Airport", "iata": "TRW", "coordinates": [1.3294, 172.9780] },
+{ "type": "port", "country": "Kiribati", "name": "Port of Betio", "coordinates": [1.3290, 172.9760] },
+
+{ "type": "capital", "country": "Kuwait", "name": "Kuwait City", "coordinates": [29.3759, 47.9774] },
+{ "type": "airport", "country": "Kuwait", "name": "Kuwait International Airport", "iata": "KWI", "coordinates": [29.2266, 47.9683] },
+{ "type": "port", "country": "Kuwait", "name": "Port of Shuwaikh", "coordinates": [29.3697, 47.9475] },
+
+{ "type": "capital", "country": "Kyrgyzstan", "name": "Bishkek", "coordinates": [42.8746, 74.5698] },
+{ "type": "airport", "country": "Kyrgyzstan", "name": "Manas International Airport", "iata": "FRU", "coordinates": [43.0614, 74.4775] },
+{ "type": "port", "country": "Kyrgyzstan", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Laos", "name": "Vientiane", "coordinates": [17.9757, 102.6331] },
+{ "type": "airport", "country": "Laos", "name": "Wattay International Airport", "iata": "VTE", "coordinates": [17.9880, 102.5630] },
+{ "type": "port", "country": "Laos", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Latvia", "name": "Riga", "coordinates": [56.9496, 24.1052] },
+{ "type": "airport", "country": "Latvia", "name": "Riga International Airport", "iata": "RIX", "coordinates": [56.9236, 23.9715] },
+{ "type": "port", "country": "Latvia", "name": "Port of Riga", "coordinates": [56.9496, 24.1060] },
+
+{ "type": "capital", "country": "Lebanon", "name": "Beirut", "coordinates": [33.8886, 35.4955] },
+{ "type": "airport", "country": "Lebanon", "name": "Beirut–Rafic Hariri International Airport", "iata": "BEY", "coordinates": [33.8206, 35.4884] },
+{ "type": "port", "country": "Lebanon", "name": "Port of Beirut", "coordinates": [33.8883, 35.4950] },
+
+{ "type": "capital", "country": "Lesotho", "name": "Maseru", "coordinates": [-29.3158, 27.4869] },
+{ "type": "airport", "country": "Lesotho", "name": "Moshoeshoe I International Airport", "iata": "MSU", "coordinates": [-29.4528, 27.5525] },
+{ "type": "port", "country": "Lesotho", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Liberia", "name": "Monrovia", "coordinates": [6.3000, -10.7969] },
+{ "type": "airport", "country": "Liberia", "name": "Roberts International Airport", "iata": "ROB", "coordinates": [6.2333, -10.3628] },
+{ "type": "port", "country": "Liberia", "name": "Port of Monrovia", "coordinates": [6.3000, -10.7969] },
+
+{ "type": "capital", "country": "Libya", "name": "Tripoli", "coordinates": [32.8872, 13.1913] },
+{ "type": "airport", "country": "Libya", "name": "Tripoli International Airport", "iata": "TIP", "coordinates": [32.6636, 13.1599] },
+{ "type": "port", "country": "Libya", "name": "Port of Tripoli", "coordinates": [32.8872, 13.1880] },
+
+{ "type": "capital", "country": "Liechtenstein", "name": "Vaduz", "coordinates": [47.1410, 9.5215] },
+{ "type": "airport", "country": "Liechtenstein", "name": "None (Nearest: Zürich Airport, Switzerland)", "iata": "ZRH", "coordinates": [47.4647, 8.5492] },
+{ "type": "port", "country": "Liechtenstein", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Lithuania", "name": "Vilnius", "coordinates": [54.6872, 25.2797] },
+{ "type": "airport", "country": "Lithuania", "name": "Vilnius Airport", "iata": "VNO", "coordinates": [54.6342, 25.2856] },
+{ "type": "port", "country": "Lithuania", "name": "Port of Klaipėda", "coordinates": [55.7090, 21.1360] },
+
+{ "type": "capital", "country": "Luxembourg", "name": "Luxembourg City", "coordinates": [49.6117, 6.1319] },
+{ "type": "airport", "country": "Luxembourg", "name": "Luxembourg Airport", "iata": "LUX", "coordinates": [49.6266, 6.2128] },
+{ "type": "port", "country": "Luxembourg", "name": "Port of Luxembourg (Moselle River)", "coordinates": [49.6117, 6.1319] },
+
+{ "type": "capital", "country": "Madagascar", "name": "Antananarivo", "coordinates": [-18.8792, 47.5079] },
+{ "type": "airport", "country": "Madagascar", "name": "Ivato International Airport", "iata": "TNR", "coordinates": [-18.7966, 47.4783] },
+{ "type": "port", "country": "Madagascar", "name": "Port of Toamasina", "coordinates": [-18.1490, 49.4020] },
+
+{ "type": "capital", "country": "Malawi", "name": "Lilongwe", "coordinates": [-13.9626, 33.7741] },
+{ "type": "airport", "country": "Malawi", "name": "Lilongwe International Airport", "iata": "LLW", "coordinates": [-13.7841, 33.7808] },
+{ "type": "port", "country": "Malawi", "name": "Port of Nacala (Mozambique, nearby)", "coordinates": [-14.5167, 39.2667] },
+
+{ "type": "capital", "country": "Malaysia", "name": "Kuala Lumpur", "coordinates": [3.1390, 101.6869] },
+{ "type": "airport", "country": "Malaysia", "name": "Kuala Lumpur International Airport", "iata": "KUL", "coordinates": [2.7456, 101.7072] },
+{ "type": "port", "country": "Malaysia", "name": "Port Klang", "coordinates": [3.0000, 101.4000] },
+
+{ "type": "capital", "country": "Maldives", "name": "Malé", "coordinates": [4.1755, 73.5093] },
+{ "type": "airport", "country": "Maldives", "name": "Velana International Airport", "iata": "MLE", "coordinates": [4.1910, 73.5290] },
+{ "type": "port", "country": "Maldives", "name": "Port of Malé", "coordinates": [4.1750, 73.5090] },
+
+{ "type": "capital", "country": "Mali", "name": "Bamako", "coordinates": [12.6392, -8.0029] },
+{ "type": "airport", "country": "Mali", "name": "Modibo Keita International Airport", "iata": "BKO", "coordinates": [12.5336, -7.9481] },
+{ "type": "port", "country": "Mali", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Malta", "name": "Valletta", "coordinates": [35.8997, 14.5146] },
+{ "type": "airport", "country": "Malta", "name": "Malta International Airport", "iata": "MLA", "coordinates": [35.8575, 14.4775] },
+{ "type": "port", "country": "Malta", "name": "Port of Valletta", "coordinates": [35.8997, 14.5146] },
+
+{ "type": "capital", "country": "Marshall Islands", "name": "Majuro", "coordinates": [7.1164, 171.1859] },
+{ "type": "airport", "country": "Marshall Islands", "name": "Marshall Islands International Airport", "iata": "MAJ", "coordinates": [7.0647, 171.2720] },
+{ "type": "port", "country": "Marshall Islands", "name": "Port of Majuro", "coordinates": [7.1160, 171.1850] },
+
+{ "type": "capital", "country": "Mauritania", "name": "Nouakchott", "coordinates": [18.0735, -15.9582] },
+{ "type": "airport", "country": "Mauritania", "name": "Nouakchott–Oumtounsy International Airport", "iata": "NKC", "coordinates": [18.0989, -15.9475] },
+{ "type": "port", "country": "Mauritania", "name": "Port of Nouakchott", "coordinates": [18.0735, -15.9582] },
+
+{ "type": "capital", "country": "Mauritius", "name": "Port Louis", "coordinates": [-20.1609, 57.5012] },
+{ "type": "airport", "country": "Mauritius", "name": "Sir Seewoosagur Ramgoolam International Airport", "iata": "MRU", "coordinates": [-20.4300, 57.6833] },
+{ "type": "port", "country": "Mauritius", "name": "Port Louis", "coordinates": [-20.1610, 57.5020] },
+
+{ "type": "capital", "country": "Mexico", "name": "Mexico City", "coordinates": [19.4326, -99.1332] },
+{ "type": "airport", "country": "Mexico", "name": "Mexico City International Airport", "iata": "MEX", "coordinates": [19.4361, -99.0719] },
+{ "type": "port", "country": "Mexico", "name": "Port of Veracruz", "coordinates": [19.1738, -96.1342] },
+
+{ "type": "capital", "country": "Micronesia", "name": "Palikir", "coordinates": [6.9170, 158.1850] },
+{ "type": "airport", "country": "Micronesia", "name": "Pohnpei International Airport", "iata": "PNI", "coordinates": [6.9851, 158.2081] },
+{ "type": "port", "country": "Micronesia", "name": "Port of Kolonia", "coordinates": [6.9830, 158.2100] },
+
+{ "type": "capital", "country": "Moldova", "name": "Chișinău", "coordinates": [47.0105, 28.8638] },
+{ "type": "airport", "country": "Moldova", "name": "Chișinău International Airport", "iata": "KIV", "coordinates": [46.9272, 28.9306] },
+{ "type": "port", "country": "Moldova", "name": "Port of Giurgiulești", "coordinates": [45.5375, 28.1578] },
+
+{ "type": "capital", "country": "Monaco", "name": "Monaco", "coordinates": [43.7384, 7.4246] },
+{ "type": "airport", "country": "Monaco", "name": "Nearest: Nice Côte d'Azur Airport, France", "iata": "NCE", "coordinates": [43.6584, 7.2150] },
+{ "type": "port", "country": "Monaco", "name": "Port Hercules", "coordinates": [43.7370, 7.4250] },
+
+{ "type": "capital", "country": "Mongolia", "name": "Ulaanbaatar", "coordinates": [47.8864, 106.9057] },
+{ "type": "airport", "country": "Mongolia", "name": "Chinggis Khaan International Airport", "iata": "ULN", "coordinates": [47.8436, 106.7661] },
+{ "type": "port", "country": "Mongolia", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Montenegro", "name": "Podgorica", "coordinates": [42.4410, 19.2620] },
+{ "type": "airport", "country": "Montenegro", "name": "Podgorica Airport", "iata": "TGD", "coordinates": [42.3594, 19.2511] },
+{ "type": "port", "country": "Montenegro", "name": "Port of Bar", "coordinates": [42.1039, 19.0958] },
+
+{ "type": "capital", "country": "Morocco", "name": "Rabat", "coordinates": [34.0209, -6.8416] },
+{ "type": "airport", "country": "Morocco", "name": "Rabat–Salé Airport", "iata": "RBA", "coordinates": [34.0511, -6.7519] },
+{ "type": "port", "country": "Morocco", "name": "Port of Casablanca", "coordinates": [33.5950, -7.6111] },
+
+{ "type": "capital", "country": "Mozambique", "name": "Maputo", "coordinates": [-25.9653, 32.5892] },
+{ "type": "airport", "country": "Mozambique", "name": "Maputo International Airport", "iata": "MPM", "coordinates": [-25.9200, 32.5728] },
+{ "type": "port", "country": "Mozambique", "name": "Port of Maputo", "coordinates": [-25.9650, 32.5890] },
+
+{ "type": "capital", "country": "Myanmar", "name": "Naypyidaw", "coordinates": [19.7633, 96.0785] },
+{ "type": "airport", "country": "Myanmar", "name": "Mandalay International Airport", "iata": "MDL", "coordinates": [21.7022, 95.9778] },
+{ "type": "port", "country": "Myanmar", "name": "Port of Yangon", "coordinates": [16.7990, 96.1490] },
+
+{ "type": "capital", "country": "Namibia", "name": "Windhoek", "coordinates": [-22.5609, 17.0658] },
+{ "type": "airport", "country": "Namibia", "name": "Hosea Kutako International Airport", "iata": "WDH", "coordinates": [-22.4875, 17.4622] },
+{ "type": "port", "country": "Namibia", "name": "Port of Walvis Bay", "coordinates": [-22.9575, 14.5058] },
+
+{ "type": "capital", "country": "Nauru", "name": "Yaren", "coordinates": [-0.5477, 166.9209] },
+{ "type": "airport", "country": "Nauru", "name": "Nauru International Airport", "iata": "INU", "coordinates": [-0.5477, 166.9209] },
+{ "type": "port", "country": "Nauru", "name": "Port of Nauru", "coordinates": [-0.5477, 166.9209] },
+
+{ "type": "capital", "country": "Nepal", "name": "Kathmandu", "coordinates": [27.7172, 85.3240] },
+{ "type": "airport", "country": "Nepal", "name": "Tribhuvan International Airport", "iata": "KTM", "coordinates": [27.6966, 85.3590] },
+{ "type": "port", "country": "Nepal", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Netherlands", "name": "Amsterdam", "coordinates": [52.3676, 4.9041] },
+{ "type": "airport", "country": "Netherlands", "name": "Amsterdam Airport Schiphol", "iata": "AMS", "coordinates": [52.3105, 4.7683] },
+{ "type": "port", "country": "Netherlands", "name": "Port of Rotterdam", "coordinates": [51.9400, 4.1383] },
+
+{ "type": "capital", "country": "New Zealand", "name": "Wellington", "coordinates": [-41.2865, 174.7762] },
+{ "type": "airport", "country": "New Zealand", "name": "Wellington International Airport", "iata": "WLG", "coordinates": [-41.3272, 174.8052] },
+{ "type": "port", "country": "New Zealand", "name": "Port of Wellington", "coordinates": [-41.3095, 174.7995] },
+
+{ "type": "capital", "country": "Nicaragua", "name": "Managua", "coordinates": [12.1364, -86.2514] },
+{ "type": "airport", "country": "Nicaragua", "name": "Augusto C. Sandino International Airport", "iata": "MGA", "coordinates": [12.1364, -86.1681] },
+{ "type": "port", "country": "Nicaragua", "name": "Port of Corinto", "coordinates": [12.5531, -87.1528] },
+
+{ "type": "capital", "country": "Niger", "name": "Niamey", "coordinates": [13.5128, 2.1127] },
+{ "type": "airport", "country": "Niger", "name": "Diori Hamani International Airport", "iata": "NIM", "coordinates": [13.4811, 2.1831] },
+{ "type": "port", "country": "Niger", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Nigeria", "name": "Abuja", "coordinates": [9.0765, 7.3986] },
+{ "type": "airport", "country": "Nigeria", "name": "Nnamdi Azikiwe International Airport", "iata": "ABV", "coordinates": [9.0062, 7.2631] },
+{ "type": "port", "country": "Nigeria", "name": "Port of Lagos", "coordinates": [6.4541, 3.3903] },
+
+{ "type": "capital", "country": "North Korea", "name": "Pyongyang", "coordinates": [39.0392, 125.7625] },
+{ "type": "airport", "country": "North Korea", "name": "Pyongyang Sunan International Airport", "iata": "FNJ", "coordinates": [39.2242, 125.6700] },
+{ "type": "port", "country": "North Korea", "name": "Port of Nampo", "coordinates": [38.7670, 125.3750] },
+
+{ "type": "capital", "country": "North Macedonia", "name": "Skopje", "coordinates": [41.9981, 21.4254] },
+{ "type": "airport", "country": "North Macedonia", "name": "Skopje International Airport", "iata": "SKP", "coordinates": [41.9619, 21.6214] },
+{ "type": "port", "country": "North Macedonia", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Norway", "name": "Oslo", "coordinates": [59.9139, 10.7522] },
+{ "type": "airport", "country": "Norway", "name": "Oslo Airport, Gardermoen", "iata": "OSL", "coordinates": [60.1939, 11.1004] },
+{ "type": "port", "country": "Norway", "name": "Port of Oslo", "coordinates": [59.9094, 10.7489] },
+
+{ "type": "capital", "country": "Oman", "name": "Muscat", "coordinates": [23.5859, 58.4059] },
+{ "type": "airport", "country": "Oman", "name": "Muscat International Airport", "iata": "MCT", "coordinates": [23.5933, 58.2844] },
+{ "type": "port", "country": "Oman", "name": "Port Sultan Qaboos", "coordinates": [23.6093, 58.5420] },
+
+{ "type": "capital", "country": "Pakistan", "name": "Islamabad", "coordinates": [33.6844, 73.0479] },
+{ "type": "airport", "country": "Pakistan", "name": "Islamabad International Airport", "iata": "ISB", "coordinates": [33.6167, 72.8433] },
+{ "type": "port", "country": "Pakistan", "name": "Port of Karachi", "coordinates": [24.8600, 67.0100] },
+
+{ "type": "capital", "country": "Palau", "name": "Ngerulmud", "coordinates": [7.5000, 134.6230] },
+{ "type": "airport", "country": "Palau", "name": "Roman Tmetuchl International Airport", "iata": "ROR", "coordinates": [7.3670, 134.5690] },
+{ "type": "port", "country": "Palau", "name": "Port of Koror", "coordinates": [7.3430, 134.4680] },
+
+{ "type": "capital", "country": "Palestine", "name": "Ramallah", "coordinates": [31.8990, 35.2040] },
+{ "type": "airport", "country": "Palestine", "name": "Nearest: Ben Gurion Airport, Israel", "iata": "TLV", "coordinates": [32.0056, 34.8858] },
+{ "type": "port", "country": "Palestine", "name": "Port of Gaza", "coordinates": [31.5000, 34.4667] },
+
+{ "type": "capital", "country": "Panama", "name": "Panama City", "coordinates": [8.9833, -79.5167] },
+{ "type": "airport", "country": "Panama", "name": "Tocumen International Airport", "iata": "PTY", "coordinates": [9.0710, -79.3830] },
+{ "type": "port", "country": "Panama", "name": "Port of Balboa", "coordinates": [8.9500, -79.5667] },
+
+{ "type": "capital", "country": "Papua New Guinea", "name": "Port Moresby", "coordinates": [-9.4780, 147.1490] },
+{ "type": "airport", "country": "Papua New Guinea", "name": "Jacksons International Airport", "iata": "POM", "coordinates": [-9.4430, 147.2200] },
+{ "type": "port", "country": "Papua New Guinea", "name": "Port of Port Moresby", "coordinates": [-9.4780, 147.1490] },
+
+{ "type": "capital", "country": "Paraguay", "name": "Asunción", "coordinates": [-25.2637, -57.5759] },
+{ "type": "airport", "country": "Paraguay", "name": "Silvio Pettirossi International Airport", "iata": "ASU", "coordinates": [-25.2397, -57.5197] },
+{ "type": "port", "country": "Paraguay", "name": "Port of Asunción", "coordinates": [-25.2637, -57.5759] },
+
+{ "type": "capital", "country": "Peru", "name": "Lima", "coordinates": [-12.0464, -77.0428] },
+{ "type": "airport", "country": "Peru", "name": "Jorge Chávez International Airport", "iata": "LIM", "coordinates": [-12.0219, -77.1143] },
+{ "type": "port", "country": "Peru", "name": "Port of Callao", "coordinates": [-12.0583, -77.1500] },
+
+{ "type": "capital", "country": "Philippines", "name": "Manila", "coordinates": [14.5995, 120.9842] },
+{ "type": "airport", "country": "Philippines", "name": "Ninoy Aquino International Airport", "iata": "MNL", "coordinates": [14.5086, 121.0196] },
+{ "type": "port", "country": "Philippines", "name": "Port of Manila", "coordinates": [14.5841, 120.9770] },
+
+{ "type": "capital", "country": "Poland", "name": "Warsaw", "coordinates": [52.2297, 21.0122] },
+{ "type": "airport", "country": "Poland", "name": "Warsaw Chopin Airport", "iata": "WAW", "coordinates": [52.1657, 20.9670] },
+{ "type": "port", "country": "Poland", "name": "Port of Gdańsk", "coordinates": [54.3600, 18.6550] },
+
+{ "type": "capital", "country": "Portugal", "name": "Lisbon", "coordinates": [38.7169, -9.1390] },
+{ "type": "airport", "country": "Portugal", "name": "Lisbon Portela Airport", "iata": "LIS", "coordinates": [38.7742, -9.1342] },
+{ "type": "port", "country": "Portugal", "name": "Port of Lisbon", "coordinates": [38.7071, -9.1355] },
+
+{ "type": "capital", "country": "Qatar", "name": "Doha", "coordinates": [25.2854, 51.5310] },
+{ "type": "airport", "country": "Qatar", "name": "Hamad International Airport", "iata": "DOH", "coordinates": [25.2736, 51.6080] },
+{ "type": "port", "country": "Qatar", "name": "Hamad Port", "coordinates": [25.3964, 51.5731] },
+
+{ "type": "capital", "country": "Romania", "name": "Bucharest", "coordinates": [44.4268, 26.1025] },
+{ "type": "airport", "country": "Romania", "name": "Henri Coandă International Airport", "iata": "OTP", "coordinates": [44.5711, 26.0850] },
+{ "type": "port", "country": "Romania", "name": "Port of Constanța", "coordinates": [44.1736, 28.6383] },
+
+{ "type": "capital", "country": "Russia", "name": "Moscow", "coordinates": [55.7558, 37.6173] },
+{ "type": "airport", "country": "Russia", "name": "Sheremetyevo International Airport", "iata": "SVO", "coordinates": [55.9726, 37.4146] },
+{ "type": "port", "country": "Russia", "name": "Port of Saint Petersburg", "coordinates": [59.9311, 30.3609] },
+
+{ "type": "capital", "country": "Rwanda", "name": "Kigali", "coordinates": [-1.9579, 30.1127] },
+{ "type": "airport", "country": "Rwanda", "name": "Kigali International Airport", "iata": "KGL", "coordinates": [-1.9686, 30.1395] },
+{ "type": "port", "country": "Rwanda", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Saint Kitts and Nevis", "name": "Basseterre", "coordinates": [17.3026, -62.7177] },
+{ "type": "airport", "country": "Saint Kitts and Nevis", "name": "Robert L. Bradshaw International Airport", "iata": "SKB", "coordinates": [17.3116, -62.7176] },
+{ "type": "port", "country": "Saint Kitts and Nevis", "name": "Port of Basseterre", "coordinates": [17.3026, -62.7177] },
+
+{ "type": "capital", "country": "Saint Lucia", "name": "Castries", "coordinates": [14.0101, -60.9875] },
+{ "type": "airport", "country": "Saint Lucia", "name": "Hewanorra International Airport", "iata": "UVF", "coordinates": [13.7336, -60.9525] },
+{ "type": "port", "country": "Saint Lucia", "name": "Port of Castries", "coordinates": [14.0101, -60.9875] },
+
+{ "type": "capital", "country": "Saint Vincent and the Grenadines", "name": "Kingstown", "coordinates": [13.1600, -61.2240] },
+{ "type": "airport", "country": "Saint Vincent and the Grenadines", "name": "Argyle International Airport", "iata": "SVD", "coordinates": [13.1500, -61.2100] },
+{ "type": "port", "country": "Saint Vincent and the Grenadines", "name": "Port of Kingstown", "coordinates": [13.1600, -61.2240] },
+
+{ "type": "capital", "country": "Samoa", "name": "Apia", "coordinates": [-13.8333, -171.7667] },
+{ "type": "airport", "country": "Samoa", "name": "Faleolo International Airport", "iata": "APW", "coordinates": [-13.8300, -172.0080] },
+{ "type": "port", "country": "Samoa", "name": "Port of Apia", "coordinates": [-13.8333, -171.7667] },
+
+{ "type": "capital", "country": "San Marino", "name": "San Marino", "coordinates": [43.9336, 12.4500] },
+{ "type": "airport", "country": "San Marino", "name": "Nearest: Federico Fellini International Airport, Italy", "iata": "RMI", "coordinates": [43.9993, 12.6110] },
+{ "type": "port", "country": "San Marino", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Sao Tome and Principe", "name": "São Tomé", "coordinates": [0.3365, 6.7273] },
+{ "type": "airport", "country": "Sao Tome and Principe", "name": "São Tomé International Airport", "iata": "TMS", "coordinates": [0.3783, 6.7131] },
+{ "type": "port", "country": "Sao Tome and Principe", "name": "Port of São Tomé", "coordinates": [0.3365, 6.7273] },
+
+{ "type": "capital", "country": "Saudi Arabia", "name": "Riyadh", "coordinates": [24.7136, 46.6753] },
+{ "type": "airport", "country": "Saudi Arabia", "name": "King Khalid International Airport", "iata": "RUH", "coordinates": [24.9575, 46.6986] },
+{ "type": "port", "country": "Saudi Arabia", "name": "Port of Dammam", "coordinates": [26.4340, 50.1030] },
+
+{ "type": "capital", "country": "Senegal", "name": "Dakar", "coordinates": [14.7167, -17.4677] },
+{ "type": "airport", "country": "Senegal", "name": "Blaise Diagne International Airport", "iata": "DSS", "coordinates": [14.6675, -16.2710] },
+{ "type": "port", "country": "Senegal", "name": "Port of Dakar", "coordinates": [14.6950, -17.4433] },
+
+{ "type": "capital", "country": "Serbia", "name": "Belgrade", "coordinates": [44.8176, 20.4569] },
+{ "type": "airport", "country": "Serbia", "name": "Belgrade Nikola Tesla Airport", "iata": "BEG", "coordinates": [44.8186, 20.3094] },
+{ "type": "port", "country": "Serbia", "name": "Port of Belgrade (River)", "coordinates": [44.8333, 20.5000] },
+
+{ "type": "capital", "country": "Seychelles", "name": "Victoria", "coordinates": [-4.6191, 55.4513] },
+{ "type": "airport", "country": "Seychelles", "name": "Seychelles International Airport", "iata": "SEZ", "coordinates": [-4.6745, 55.5214] },
+{ "type": "port", "country": "Seychelles", "name": "Port Victoria", "coordinates": [-4.6191, 55.4513] },
+
+{ "type": "capital", "country": "Sierra Leone", "name": "Freetown", "coordinates": [8.4844, -13.2344] },
+{ "type": "airport", "country": "Sierra Leone", "name": "Lungi International Airport", "iata": "FNA", "coordinates": [8.6167, -13.1950] },
+{ "type": "port", "country": "Sierra Leone", "name": "Port of Freetown", "coordinates": [8.4844, -13.2344] },
+
+{ "type": "capital", "country": "Singapore", "name": "Singapore", "coordinates": [1.3521, 103.8198] },
+{ "type": "airport", "country": "Singapore", "name": "Changi Airport", "iata": "SIN", "coordinates": [1.3644, 103.9915] },
+{ "type": "port", "country": "Singapore", "name": "Port of Singapore", "coordinates": [1.2644, 103.8200] },
+
+{ "type": "capital", "country": "Slovakia", "name": "Bratislava", "coordinates": [48.1486, 17.1077] },
+{ "type": "airport", "country": "Slovakia", "name": "M. R. Štefánik Airport", "iata": "BTS", "coordinates": [48.1701, 17.2122] },
+{ "type": "port", "country": "Slovakia", "name": "Port of Bratislava (River)", "coordinates": [48.1500, 17.1167] },
+
+{ "type": "capital", "country": "Slovenia", "name": "Ljubljana", "coordinates": [46.0569, 14.5058] },
+{ "type": "airport", "country": "Slovenia", "name": "Ljubljana Jože Pučnik Airport", "iata": "LJU", "coordinates": [46.2231, 14.4571] },
+{ "type": "port", "country": "Slovenia", "name": "Port of Koper", "coordinates": [45.5460, 13.7330] },
+
+{ "type": "capital", "country": "Solomon Islands", "name": "Honiara", "coordinates": [-9.4456, 159.9729] },
+{ "type": "airport", "country": "Solomon Islands", "name": "Honiara International Airport", "iata": "HIR", "coordinates": [-9.4285, 160.0544] },
+{ "type": "port", "country": "Solomon Islands", "name": "Port of Honiara", "coordinates": [-9.4285, 160.0544] },
+
+{ "type": "capital", "country": "Somalia", "name": "Mogadishu", "coordinates": [2.0469, 45.3182] },
+{ "type": "airport", "country": "Somalia", "name": "Aden Adde International Airport", "iata": "MGQ", "coordinates": [2.0058, 45.3219] },
+{ "type": "port", "country": "Somalia", "name": "Port of Mogadishu", "coordinates": [2.0469, 45.3182] },
+
+{ "type": "capital", "country": "South Africa", "name": "Pretoria", "coordinates": [-25.7479, 28.2293] },
+{ "type": "airport", "country": "South Africa", "name": "O. R. Tambo International Airport", "iata": "JNB", "coordinates": [-26.1337, 28.2428] },
+{ "type": "port", "country": "South Africa", "name": "Port of Durban", "coordinates": [-29.8833, 31.0333] },
+
+{ "type": "capital", "country": "South Korea", "name": "Seoul", "coordinates": [37.5665, 126.9780] },
+{ "type": "airport", "country": "South Korea", "name": "Incheon International Airport", "iata": "ICN", "coordinates": [37.4602, 126.4407] },
+{ "type": "port", "country": "South Korea", "name": "Port of Busan", "coordinates": [35.1028, 129.0403] },
+
+{ "type": "capital", "country": "South Sudan", "name": "Juba", "coordinates": [4.8594, 31.5713] },
+{ "type": "airport", "country": "South Sudan", "name": "Juba International Airport", "iata": "JUB", "coordinates": [4.8720, 31.6011] },
+{ "type": "port", "country": "South Sudan", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Spain", "name": "Madrid", "coordinates": [40.4165, -3.7026] },
+{ "type": "airport", "country": "Spain", "name": "Adolfo Suárez Madrid–Barajas Airport", "iata": "MAD", "coordinates": [40.4983, -3.5676] },
+{ "type": "port", "country": "Spain", "name": "Port of Valencia", "coordinates": [39.4569, -0.3170] },
+
+{ "type": "capital", "country": "Sri Lanka", "name": "Sri Jayawardenepura Kotte", "coordinates": [6.9271, 79.8612] },
+{ "type": "airport", "country": "Sri Lanka", "name": "Bandaranaike International Airport", "iata": "CMB", "coordinates": [7.1807, 79.8847] },
+{ "type": "port", "country": "Sri Lanka", "name": "Port of Colombo", "coordinates": [6.9510, 79.8470] },
+
+{ "type": "capital", "country": "Sudan", "name": "Khartoum", "coordinates": [15.5007, 32.5599] },
+{ "type": "airport", "country": "Sudan", "name": "Khartoum International Airport", "iata": "KRT", "coordinates": [15.5890, 32.5539] },
+{ "type": "port", "country": "Sudan", "name": "Port Sudan", "coordinates": [19.6150, 37.2167] },
+
+{ "type": "capital", "country": "Suriname", "name": "Paramaribo", "coordinates": [5.8520, -55.2038] },
+{ "type": "airport", "country": "Suriname", "name": "Johan Adolf Pengel International Airport", "iata": "PBM", "coordinates": [5.4500, -55.1830] },
+{ "type": "port", "country": "Suriname", "name": "Port of Paramaribo", "coordinates": [5.8520, -55.2038] },
+
+{ "type": "capital", "country": "Sweden", "name": "Stockholm", "coordinates": [59.3293, 18.0686] },
+{ "type": "airport", "country": "Sweden", "name": "Stockholm Arlanda Airport", "iata": "ARN", "coordinates": [59.6498, 17.9238] },
+{ "type": "port", "country": "Sweden", "name": "Port of Gothenburg", "coordinates": [57.7072, 11.9668] },
+
+{ "type": "capital", "country": "Switzerland", "name": "Bern", "coordinates": [46.9481, 7.4474] },
+{ "type": "airport", "country": "Switzerland", "name": "Zurich Airport", "iata": "ZRH", "coordinates": [47.4581, 8.5481] },
+{ "type": "port", "country": "Switzerland", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Syria", "name": "Damascus", "coordinates": [33.5138, 36.2765] },
+{ "type": "airport", "country": "Syria", "name": "Damascus International Airport", "iata": "DAM", "coordinates": [33.4100, 36.5167] },
+{ "type": "port", "country": "Syria", "name": "Port of Latakia", "coordinates": [35.5244, 35.7806] },
+
+{ "type": "capital", "country": "Taiwan", "name": "Taipei", "coordinates": [25.0330, 121.5654] },
+{ "type": "airport", "country": "Taiwan", "name": "Taiwan Taoyuan International Airport", "iata": "TPE", "coordinates": [25.0777, 121.2335] },
+{ "type": "port", "country": "Taiwan", "name": "Port of Kaohsiung", "coordinates": [22.6166, 120.2988] },
+
+{ "type": "capital", "country": "Tajikistan", "name": "Dushanbe", "coordinates": [38.5598, 68.7870] },
+{ "type": "airport", "country": "Tajikistan", "name": "Dushanbe International Airport", "iata": "DYU", "coordinates": [38.5433, 68.8247] },
+{ "type": "port", "country": "Tajikistan", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Tanzania", "name": "Dodoma", "coordinates": [-6.1630, 35.7516] },
+{ "type": "airport", "country": "Tanzania", "name": "Julius Nyerere International Airport", "iata": "DAR", "coordinates": [-6.8781, 39.2026] },
+{ "type": "port", "country": "Tanzania", "name": "Port of Dar es Salaam", "coordinates": [-6.8233, 39.2833] },
+
+{ "type": "capital", "country": "Thailand", "name": "Bangkok", "coordinates": [13.7563, 100.5018] },
+{ "type": "airport", "country": "Thailand", "name": "Suvarnabhumi Airport", "iata": "BKK", "coordinates": [13.6900, 100.7501] },
+{ "type": "port", "country": "Thailand", "name": "Port of Bangkok", "coordinates": [13.6818, 100.5166] },
+
+{ "type": "capital", "country": "Togo", "name": "Lomé", "coordinates": [6.1319, 1.2228] },
+{ "type": "airport", "country": "Togo", "name": "Gnassingbé Eyadéma International Airport", "iata": "LFW", "coordinates": [6.1656, 1.2542] },
+{ "type": "port", "country": "Togo", "name": "Port of Lomé", "coordinates": [6.1319, 1.2228] },
+
+{ "type": "capital", "country": "Tonga", "name": "Nukuʻalofa", "coordinates": [-21.1394, -175.2046] },
+{ "type": "airport", "country": "Tonga", "name": "Fuaʻamotu International Airport", "iata": "TBU", "coordinates": [-21.2410, -175.1490] },
+{ "type": "port", "country": "Tonga", "name": "Port of Nukuʻalofa", "coordinates": [-21.1394, -175.2046] },
+
+{ "type": "capital", "country": "Trinidad and Tobago", "name": "Port of Spain", "coordinates": [10.6549, -61.5019] },
+{ "type": "airport", "country": "Trinidad and Tobago", "name": "Piarco International Airport", "iata": "POS", "coordinates": [10.5950, -61.3370] },
+{ "type": "port", "country": "Trinidad and Tobago", "name": "Port of Port of Spain", "coordinates": [10.6549, -61.5019] },
+
+{ "type": "capital", "country": "Tunisia", "name": "Tunis", "coordinates": [36.8065, 10.1815] },
+{ "type": "airport", "country": "Tunisia", "name": "Tunis–Carthage International Airport", "iata": "TUN", "coordinates": [36.8518, 10.2270] },
+{ "type": "port", "country": "Tunisia", "name": "Port of Tunis", "coordinates": [36.8065, 10.1815] },
+
+{ "type": "capital", "country": "Turkey", "name": "Ankara", "coordinates": [39.9334, 32.8597] },
+{ "type": "airport", "country": "Turkey", "name": "Esenboğa Airport", "iata": "ESB", "coordinates": [40.1286, 32.9958] },
+{ "type": "port", "country": "Turkey", "name": "Port of Istanbul", "coordinates": [41.0082, 28.9784] },
+
+{ "type": "capital", "country": "Turkmenistan", "name": "Ashgabat", "coordinates": [37.9601, 58.3261] },
+{ "type": "airport", "country": "Turkmenistan", "name": "Ashgabat International Airport", "iata": "ASB", "coordinates": [37.9931, 58.3630] },
+{ "type": "port", "country": "Turkmenistan", "name": "Port of Turkmenbashi", "coordinates": [40.0333, 53.1167] },
+
+{ "type": "capital", "country": "Tuvalu", "name": "Funafuti", "coordinates": [-8.5211, 179.1962] },
+{ "type": "airport", "country": "Tuvalu", "name": "Funafuti International Airport", "iata": "FUN", "coordinates": [-8.5200, 179.1950] },
+{ "type": "port", "country": "Tuvalu", "name": "Port of Funafuti", "coordinates": [-8.5211, 179.1962] },
+
+{ "type": "capital", "country": "Uganda", "name": "Kampala", "coordinates": [0.3476, 32.5825] },
+{ "type": "airport", "country": "Uganda", "name": "Entebbe International Airport", "iata": "EBB", "coordinates": [0.0425, 32.4433] },
+{ "type": "port", "country": "Uganda", "name": "Port of Jinja (River)", "coordinates": [0.4397, 33.2036] },
+
+{ "type": "capital", "country": "Ukraine", "name": "Kyiv", "coordinates": [50.4501, 30.5234] },
+{ "type": "airport", "country": "Ukraine", "name": "Boryspil International Airport", "iata": "KBP", "coordinates": [50.3450, 30.8947] },
+{ "type": "port", "country": "Ukraine", "name": "Port of Odessa", "coordinates": [46.4825, 30.7233] },
+
+{ "type": "capital", "country": "United Arab Emirates", "name": "Abu Dhabi", "coordinates": [24.4539, 54.3773] },
+{ "type": "airport", "country": "United Arab Emirates", "name": "Abu Dhabi International Airport", "iata": "AUH", "coordinates": [24.4342, 54.6514] },
+{ "type": "port", "country": "United Arab Emirates", "name": "Port of Jebel Ali", "coordinates": [25.0057, 55.0086] },
+
+{ "type": "capital", "country": "United Kingdom", "name": "London", "coordinates": [51.5074, -0.1278] },
+{ "type": "airport", "country": "United Kingdom", "name": "Heathrow Airport", "iata": "LHR", "coordinates": [51.4700, -0.4543] },
+{ "type": "port", "country": "United Kingdom", "name": "Port of London", "coordinates": [51.5074, 0.0570] },
+
+{ "type": "capital", "country": "United States", "name": "Washington, D.C.", "coordinates": [38.9072, -77.0369] },
+{ "type": "airport", "country": "United States", "name": "Washington Dulles International Airport", "iata": "IAD", "coordinates": [38.9531, -77.4565] },
+{ "type": "port", "country": "United States", "name": "Port of Los Angeles", "coordinates": [33.7405, -118.2775] },
+
+{ "type": "capital", "country": "Uruguay", "name": "Montevideo", "coordinates": [-34.9011, -56.1645] },
+{ "type": "airport", "country": "Uruguay", "name": "Carrasco International Airport", "iata": "MVD", "coordinates": [-34.8381, -56.0300] },
+{ "type": "port", "country": "Uruguay", "name": "Port of Montevideo", "coordinates": [-34.9011, -56.1645] },
+
+{ "type": "capital", "country": "Uzbekistan", "name": "Tashkent", "coordinates": [41.2995, 69.2401] },
+{ "type": "airport", "country": "Uzbekistan", "name": "Tashkent International Airport", "iata": "TAS", "coordinates": [41.2579, 69.2816] },
+{ "type": "port", "country": "Uzbekistan", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Vanuatu", "name": "Port Vila", "coordinates": [-17.7333, 168.3167] },
+{ "type": "airport", "country": "Vanuatu", "name": "Bauerfield International Airport", "iata": "VLI", "coordinates": [-17.6667, 168.3000] },
+{ "type": "port", "country": "Vanuatu", "name": "Port of Port Vila", "coordinates": [-17.7333, 168.3167] },
+
+{ "type": "capital", "country": "Vatican City", "name": "Vatican City", "coordinates": [41.9029, 12.4534] },
+{ "type": "airport", "country": "Vatican City", "name": "Nearest: Rome Fiumicino Airport, Italy", "iata": "FCO", "coordinates": [41.8003, 12.2389] },
+{ "type": "port", "country": "Vatican City", "name": "None (Landlocked)" },
+
+{ "type": "capital", "country": "Venezuela", "name": "Caracas", "coordinates": [10.4806, -66.9036] },
+{ "type": "airport", "country": "Venezuela", "name": "Simón Bolívar International Airport", "iata": "CCS", "coordinates": [10.5950, -66.9915] },
+{ "type": "port", "country": "Venezuela", "name": "Port of La Guaira", "coordinates": [10.6033, -66.9386] },
+
+{ "type": "capital", "country": "Vietnam", "name": "Hanoi", "coordinates": [21.0285, 105.8542] },
+{ "type": "airport", "country": "Vietnam", "name": "Noi Bai International Airport", "iata": "HAN", "coordinates": [21.2181, 105.8045] },
+{ "type": "port", "country": "Vietnam", "name": "Port of Haiphong", "coordinates": [20.8650, 106.6828] },
+
+{ "type": "capital", "country": "Yemen", "name": "Sana'a", "coordinates": [15.3694, 44.1910] },
+{ "type": "airport", "country": "Yemen", "name": "Sana'a International Airport", "iata": "SAH", "coordinates": [15.4761, 44.2192] },
+{ "type": "port", "country": "Yemen", "name": "Port of Aden", "coordinates": [12.7797, 45.0364] },
+
+{ "type": "capital", "country": "Zambia", "name": "Lusaka", "coordinates": [-15.3875, 28.3228] },
+{ "type": "airport", "country": "Zambia", "name": "Kenneth Kaunda International Airport", "iata": "LUN", "coordinates": [-15.3300, 28.4520] },
+{ "type": "port", "country": "Zambia", "name": "Port of Ndola (River/Mining Export)", "coordinates": [-12.9647, 28.6428] },
+
+{ "type": "capital", "country": "Zimbabwe", "name": "Harare", "coordinates": [-17.8252, 31.0335] },
+{ "type": "airport", "country": "Zimbabwe", "name": "Harare International Airport", "iata": "HRE", "coordinates": [-17.9316, 31.0922] },
+{ "type": "port", "country": "Zimbabwe", "name": "Port of Beira (via Mozambique)", "coordinates": [-19.8236, 34.8418] }
+
+]
